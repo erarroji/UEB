@@ -1,0 +1,325 @@
+SAMPLE	CANCER_TYPE	SAMPLE_ALTERATION	ALTERATION_MATCH	TUMOR_MATCH	DRUG	BIOMARKER	EFFECT	BIOMARKER_IDX	RESISTANCE_LIST	RESISTANCE_TYPE	TESTED_TUMOR	EVIDENCE	SOURCE
+UEB_53	SOLID	PIK3CA MUT (H1047R)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_53	SOLID	PIK3CA MUT (H1047R)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_53	SOLID	PIK3CA MUT (H1047R)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_53	SOLID	TP53 MUT (P151R)	only alteration type	1	 (HSP90 inhibitor)	TP53 (R248Q,R175H)	Responsive	616			CANCER	Pre-clinical	PMID:26009011
+UEB_53	SOLID	TP53 MUT (P151R)	complete	0	Decitabine (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Responsive	617			AML, MDPS	Early trials	PMID:27959731
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	Abemaciclib (CDK4/6 inhibitor)	TP53 (TP53 oncogenic mutation)	Resistant	618			BRCA	Early trials	PMID:27217383
+UEB_53	SOLID	TP53 MUT (P151R)	only alteration type	0	 (HDM2 inhibitor)	TP53 (TP53::wildtype oncogenic mutation)	Responsive	619			AML	Early trials	AACR 2017 (abstr CT152)
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	Cisplatin (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Resistant	620			FGCT, MGCT	Early trials	PMID:27646943
+UEB_53	SOLID	TP53 MUT (P151R)	complete	0	AZD6738 (ATR inhibitor)	TP53 (TP53 oncogenic mutation)	Responsive	621			BCL	Early trials	https://ash.confex.com/ash/2014/webprogram/Paper71027.html;NCT01955668
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	Gemcitabine (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Responsive	622			BLCA	Pre-clinical	PMID:27397505
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	Mitomycin C (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Responsive	623			BLCA	Pre-clinical	PMID:27397505
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	 (WEE1 inhibitor)	TP53 (TP53 oncogenic mutation)	Responsive	624			HNC	Pre-clinical	PMID:25125259
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	 (MDM2 inhibitor)	TP53 (TP53 oncogenic mutation)	Resistant	625			LIP	Early trials	PMID:23084521;ASCO 2015 (abstr 10564)
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	Doxorubicin (Anthracycline antitumor antibiotic)	TP53 (TP53 oncogenic mutation)	Responsive	626			BLCA	Pre-clinical	PMID:27397505
+UEB_53	SOLID	TP53 MUT (P151R)	complete	0	Pramlintide (Amylin analogue)	TP53 (TP53 oncogenic mutation)	Responsive	627			THYM	Pre-clinical	PMID:25409149
+UEB_53	SOLID	TP53 MUT (P151R)	complete	1	 (WEE1 inhibitor)	TP53 (TP53 oncogenic mutation)	Responsive	628			OV	Early trials	PMID:27998224
+UEB_53	SOLID	TP53 MUT (P151R)	only gene	0	Pramlintide (Amylin analogue)	TP53 (TP53:DEL)	Responsive	629			THYM	Pre-clinical	PMID:25409149
+UEB_53	SOLID	TP53 MUT (P151R)	only gene	0	AZD6738 (ATR inhibitor)	TP53 (TP53:DEL)	Responsive	630			BCL	Early trials	https://ash.confex.com/ash/2014/webprogram/Paper71027.html;NCT01955668
+UEB_53	SOLID	CDKN2A MUT (R58*)	complete	1	Ilorasertib (AURKA-VEGF inhibitor)	CDKN2A (CDKN2A oncogenic mutation)	Responsive	721			CANCER	Early trials	NCT02478320
+UEB_53	SOLID	CDKN2A MUT (R58*)	complete	1	 (CDK4/6 inhibitor)	CDKN2A (CDKN2A oncogenic mutation)	Responsive	722			CANCER, G	Pre-clinical	PMID:22471707;PMID:22586120;PMID:22711607
+UEB_53	SOLID	CDKN2A MUT (R58*)	complete	1	 (CDK4/6 inhibitor)	CDKN2A (CDKN2A oncogenic mutation)	Responsive	723			CM	Case report	ASCO 2013 (abstr 2500)
+UEB_53	SOLID	CDKN2A MUT (R58*)	complete	1	 (PD1 inhibitor)	CDKN2A (CDKN2A oncogenic mutation)	Resistant	724			CM	Early trials	PMID:29033130
+UEB_53	SOLID	CDKN2A MUT (R58*)	only gene	1	 (CDK4/6 inhibitor)	CDKN2A (CDKN2A:DEL)	Responsive	725			CANCER, G	Pre-clinical	PMID:22471707;PMID:22586120;PMID:22711607
+UEB_53	SOLID	CDKN2A MUT (R58*)	only gene	1	Ilorasertib (AURKA-VEGF inhibitor)	CDKN2A (CDKN2A:DEL)	Responsive	726			CANCER	Early trials	NCT02478320
+UEB_53	SOLID	CDKN2A MUT (R58*)	only gene	1	 (PD1 inhibitor)	CDKN2A (CDKN2A:DEL)	Resistant	727			CM	Early trials	PMID:29033130
+UEB_53	SOLID	CDKN2A MUT (R58*)	only gene	1	 (CDK4/6 inhibitor)	CDKN2A (CDKN2A:DEL)	Responsive	728			CM	Case report	ASCO 2013 (abstr 2500)
+UEB_30	SOLID	PIK3CA MUT (G1049R)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_30	SOLID	PIK3CA MUT (G1049R)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_30	SOLID	PIK3CA MUT (G1049R)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_29	SOLID	PIK3CA MUT (H1047R)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_29	SOLID	PIK3CA MUT (H1047R)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_29	SOLID	PIK3CA MUT (H1047R)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_43	SOLID	PIK3CA MUT (H1047R)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_43	SOLID	PIK3CA MUT (H1047R)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_43	SOLID	PIK3CA MUT (H1047R)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_43	SOLID	CDK12 MUT (P1267L)	complete	1	 (PARP inhibitor)	CDK12 (CDK12 oncogenic mutation)	Responsive	707			OV	Pre-clinical	PMID:24554720;PMID:24240700
+UEB_43	SOLID	CDK12 MUT (P1267L)	only gene	1	 (PARP inhibitor)	CDK12 (CDK12:AMP)	Responsive	708			OV	Pre-clinical	PMID:24554720;PMID:24240700
+UEB_47	SOLID	PIK3CA MUT (H1047R)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_47	SOLID	PIK3CA MUT (H1047R)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_47	SOLID	PIK3CA MUT (H1047R)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_78	SOLID	PIK3CA MUT (E545K)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_78	SOLID	PIK3CA MUT (E545K)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_78	SOLID	PIK3CA MUT (E545K)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_78	SOLID	FGFR2 MUT (N550K), FGFR2 MUT (N550K)	only gene	1	 (FGFR inhibitor)	FGFR2:K641R,K659M,L617V,N549H,R565A,V564F;FGFR2:FGFR2__.	Resistant	571			CH	Early trials	ASCO 2017 (abstr 2500);PMID:28034880
+UEB_78	SOLID	FGFR2 MUT (N550K)	only alteration type	1	 (FGFR inhibitor)	FGFR2 (W290C,K660N,S320C)	Responsive	572			LUSC	Pre-clinical	PMID:23786770;PMID:25035393
+UEB_78	SOLID	FGFR2 MUT (N550K)	complete	1	Dovitinib (FGFR inhibitor)	FGFR2 (K660E,I548V,M538I,E566G,V565I,L618M,M536I,N550.)	Resistant	573			ED	Pre-clinical	PMID:23908597
+UEB_78	SOLID	FGFR2 MUT (N550K)	complete	1	Ponatinib (BCR-ABL inhibitor & Pan-TK inhibitor)	FGFR2 (K660E,I548V,M538I,E566G,L618M,M536I,N550.)	Responsive	574			ED	Pre-clinical	PMID:23908597
+UEB_78	SOLID	FGFR2 MUT (N550K)	complete	1	 (FGFR inhibitor)	FGFR2 (N550K,S252W)	Responsive	575			ED	Pre-clinical	PMID:18552176;PMID:22238366;PMID:23002168
+UEB_78	SOLID	FGFR2 MUT (N550K)	only alteration type	1	 (FGFR inhibitor)	FGFR2 (inframe_insertion|S267.,inframe_insertion|A266.)	Responsive	576			L	Pre-clinical	PMID:26048680
+UEB_78	SOLID	FGFR2 MUT (N550K)	only alteration type	1	 (FGFR inhibitor)	FGFR2 (FGFR2:V565I)	Responsive	577			ED	Pre-clinical	ENA 2014 (abstr 381)
+UEB_78	SOLID	FGFR2 MUT (N550K)	only alteration type	1	 (FGFR inhibitor)	FGFR2 (FGFR2:F276C)	Responsive	578			BT	Case report	DOI: 10.1200/PO.17.00018
+UEB_78	SOLID	FGFR2 MUT (N550K)	only gene	1	 (FGFR inhibitor)	FGFR2 (FGFR2:AMP)	Responsive	579			ST	Early trials	ASCO 2015 (abstr 2508)
+UEB_78	SOLID	FGFR2 MUT (N550K)	only gene	1	 (FGFR inhibitor)	FGFR2 (FGFR2:AMP)	Responsive	580			BRCA	Case report	PMID:25193991
+UEB_78	SOLID	FGFR2 MUT (N550K)	only gene	1	 (FGFR inhibitor)	FGFR2 (FGFR2__.)	Responsive	581			COREAD	Early trials	ASCO 2017 (abstr 2500)
+UEB_78	SOLID	FGFR2 MUT (N550K)	only gene	1	 (FGFR inhibitor)	FGFR2 (FGFR2__.)	Responsive	582			BT	Early trials	PMID:29182496;ASCO 2016 (abstr 109)
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	Cetuximab (EGFR mAb inhibitor)	EGFR (EGFR:OVER)	Responsive	104	371	Resistant	COREAD	FDA guidelines	FDA
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	Panitumumab (EGFR mAb inhibitor)	EGFR (EGFR:OVER)	Resistant	105			COREAD	FDA guidelines	FDA guidelines
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Rindopepimut (Vaccine)	EGFR (EGFR:inframe_deletion|6-273)	Responsive	106			GB	Late trials	NCT01480479
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Afatinib (ERBB2 & EGFR inhibitor)	EGFR (S768I,inframe_deletion|729-761,G719C,L858R,L861Q,L861P,G719A,L861R,L747S,G719S,G719D)	Responsive	107			NSCLC	FDA guidelines	FDA
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Gefitinib (EGFR inhibitor)	EGFR (S768I,inframe_deletion|729-761,G719C,L858R,L861Q,L861P,G719A,L861R,L747S,G719S,G719D)	Responsive	108			NSCLC	FDA guidelines	FDA
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (HSP90 inhibitor)	EGFR (S768I,G719C,L858R,L861Q,T790M,L861P,inframe_insertion|729-761,G719A,L861R,L747S,G719S,G719D)	Responsive	109			L	Early trials	ESMO 2012 (abstr 4380)
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Afatinib;Cetuximab (ERBB2 & EGFR inhibitor;EGFR mAb inhibitor)	EGFR (S768I,G719C,L858R,L861Q,L861P,inframe_insertion|729-761,G719A,L861R,L747S,G719S,G719D)	Responsive	110			L	Early trials	ESMO 2012 (abstr 1289)
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (MEK inhibitor)	EGFR (S768I,G719C,L858R,L861Q,T790M,L861P,inframe_insertion|729-761,G719A,L861R,L747S,G719S,G719D)	Responsive	111			L	Pre-clinical	PMID:23102728
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (EGFR TK inhibitor)	EGFR (S768I,G719C,L858R,L861Q,L861P,inframe_insertion|729-761,G719A,L861R,L747S,G719S,G719D)	Responsive	112			L	Late trials	PMID:22753918
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (S768I,L861.,G719.)	Responsive	113			NSCLC	NCCN guidelines	NCCN
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Osimertinib (EGFR inhibitor)	EGFR (L718.,L792.)	Resistant	114			L	Early trials	ASCO 2017 (abstr 2572)
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	EGFR-TKI's (EGFR inhibitor)	EGFR (EGFR:inframe_insertion|762-823)	Resistant	115			L	Late trials	PMID:26773740;26051236;PMID:21764376
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (HSP90 inhibitor)	EGFR (EGFR:inframe_insertion|762-823)	Responsive	116			L	Case report	ASCO 2014 (abstr 8015)
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (EGFR inhibitor)	EGFR (EGFR:inframe_insertion|762-823)	Resistant	117			L	Late trials	PMID:26773740;PMID:26051236;PMID:21764376
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Poziotinib (EGFR inhibitor)	EGFR (EGFR:inframe_insertion|762-823)	Responsive	118			L	Early trials	PMID:29686424
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Osimertinib (EGFR inhibitor)	EGFR (EGFR:inframe_insertion|762-823)	Responsive	119			L	Pre-clinical	PMID:26515464
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	HSP90 inhibitor (HSP90 inhibitor)	EGFR (EGFR:inframe_insertion|762-823)	Responsive	120			L	Early trials	ASCO 2014 (abstr 8015)
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (G598V,A289V,T263P,R108K)	Responsive	121			G	Pre-clinical	PMID:17177598
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (inframe_deletion|729-761,L858R)	Responsive	122			NSCLC	FDA guidelines	FDA
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Osimertinib (EGFR inhibitor)	EGFR (inframe_deletion|729-761,L858R)	Responsive	123			L	Early trials	NCT02465060
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Rociletinib (EGFR inhibitor)	EGFR (EGFR:L798I)	Resistant	124			LUAD	Case report	PMID:27283993
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Panitumumab (EGFR mAb inhibitor)	EGFR (EGFR:S492R)	Responsive	125			COREAD	Case report	PMID:22270724
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (novel EGFR mAb inhibitor)	EGFR (EGFR:S492R)	Responsive	126			COREAD	Early trials	PMID:25962717
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Cetuximab (EGFR mAb inhibitor)	EGFR (S492R,K467T,R451C)	Resistant	127			COREAD	Case report	PMID:26059438;PMID:26888827;PMID:25623215;PMID:22270724
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Cetuximab;Sirolimus (EGFR mAb inhibitor;MTOR inhibitor)	EGFR (EGFR:P753S)	Responsive	128			HNC	Case report	PMID:24934779
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (EGFR:inframe_insertion|769-770)	Responsive	129			L	Case report	PMID:26773740;PMID:23328547
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Gefitinib (EGFR inhibitor)	EGFR (inframe_deletion|L747.,V843I,inframe_insertion|P753PS)	No Responsive	130			HNC	Case report	PMID:21274259
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (EGFR inhibitor)	EGFR (EGFR:T790M)	Responsive	131			L	Early trials	ENA 2014 (abstr 9LBA);ASCO 2015 (abstr 8001);ASCO 2014 (abstr 8009);ENA 2014 (abstr 10LBA)
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Afatinib;Cetuximab (ERBB2 & EGFR inhibitor;EGFR mAb inhibitor)	EGFR (EGFR:T790M)	Responsive	132			L	Early trials	PMID:25074459
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (EGFR:T790M)	Resistant	133			L	NCCN/CAP guidelines	NCCN
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Osimertinib (EGFR inhibitor)	EGFR (EGFR:T790M)	Responsive	134			NSCLC	FDA guidelines	FDA
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (EGFR inhibitor)	EGFR (EGFR:T790M)	Responsive	135			NSCLC	Late trials	NCT02322281
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Afatinib;Nimotuzumab (ERBB2 & EGFR inhibitor;EGFR mAb inhibitor)	EGFR (EGFR:T790M)	Responsive	136			L	Early trials	PMID:26667485
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Afatinib (ERBB2 & EGFR inhibitor)	EGFR (EGFR:T790M)	Resistant	137			L	NCCN/CAP guidelines	NCCN
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (EGFR:inframe_insertion|729-761)	Responsive	138			L	Early trials	PMID:22190593
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Afatinib (ERBB2 & EGFR inhibitor)	EGFR (EGFR:inframe_insertion|729-761)	Responsive	139			L	Late trials	PMID:25589191;PMID:22753918
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Cetuximab (EGFR mAb inhibitor)	EGFR (S464L,I491M)	Resistant	140			COREAD	Pre-clinical	PMID:25623215
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (EGFR:S720.)	No Responsive	141			L	Case report	PMID:26773740
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Erlotinib (EGFR inhibitor)	EGFR (K757R,E746G)	Responsive	142			L	Case report	PMID:26773740
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Osimertinib (EGFR inhibitor)	EGFR (EGFR:C797S)	Resistant	143			L	Early trials	PMID:25939061
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Lapatinib (ERBB2 inhibitor)	EGFR (EGFR:E690K)	Responsive	144			ED	Case report	PMID:22885469
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (EGFR inhibitor)	EGFR (EGFR:inframe_deletion|30-336)	No Responsive	145			G	Early trials	PMID:19204207
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	 (EGFR inhibitor)	EGFR (EGFR:D761Y)	Resistant	146			NSCLC	Case report	PMID:19680293
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Panitumumab (EGFR mAb inhibitor)	EGFR (EGFR:G465R)	Resistant	147			COREAD	Case report	PMID:26059438
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Cetuximab (EGFR mAb inhibitor)	EGFR (EGFR:G465R)	Resistant;Resistant	148	371	Resistant	COREAD	Pre-clinical;Case report	PMID:26059438;PMID:26888827;PMID:25623215;PMID:22270724
+UEB_10	SOLID	EGFR MUT* (A118S)	only alteration type	1	Cetuximab (EGFR mAb inhibitor)	EGFR (EGFR:P546S)	Responsive	149	371	Resistant	HNC	Case report	PMID:23578570
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	Gefitinib (EGFR inhibitor)	EGFR (EGFR:AMP)	Responsive	150			ED	Late trials	PMID:24950987
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	Gefitinib (EGFR inhibitor)	EGFR (EGFR:AMP)	No Responsive	151			HNC	Early trials	PMID:22261807;PMID:21274259
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	 (EGFR inhibitor)	EGFR (EGFR:AMP)	Responsive	152			HNSC	Case report	PMID:26763254
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	 (EGFR inhibitor)	EGFR (EGFR:AMP)	No Responsive	153			G	Early trials	PMID:16282176;PMID:16278407
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	Erlotinib (EGFR inhibitor)	EGFR (EGFR:AMP)	No Responsive	154			L	Early trials	ASCO2015(abstre19028)
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	 (EGFR mAb inhibitor)	EGFR (EGFR:AMP)	Responsive	155			COREAD	Late trials	PMID:18794099;PMID:17664472
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	Erlotinib (EGFR inhibitor)	EGFR (EGFR__RAD51)	Responsive	156			L	Case report	PMID:27102076
+UEB_10	SOLID	EGFR MUT* (A118S)	only gene	1	Erlotinib (EGFR inhibitor)	EGFR (EGFR__RAD51)	Responsive	157			NSCLC	Case report	PMID:27102076
+UEB_10	SOLID	PIK3CA MUT (N345K)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_10	SOLID	PIK3CA MUT (N345K)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_10	SOLID	PIK3CA MUT (N345K)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_51	SOLID	PIK3CA MUT (M1043V)	only alteration type	1	 (BRAF inhibitor)	PIK3CA (PIK3CA:E545*)	Resistant	359			CM	Case report	PMC3936420
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	360			BLCA, HNC	Case report	ASCO 2015 (abstr 6049);ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	361			HNSC	Case report	PMID:26787751;PMID:26763254
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	362			G, THCA	Pre-clinical	PMID:19671762;PMID:21289267
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	Everolimus;Trastuzumab;Chemotherapy (MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	363			BRCA	Late trials	PMID:27091708
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	364			COREAD	Pre-clinical	PMID:23475782;PMID:22392911;PMID:23136191
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	365			ED, OV, CESC	Early trials	AACR 2013 (abstr LB-66);ASCO 2013 (abstr 2531);PMID:22271473;ASCO 2014 (abstr 5513);PMID:27672108;PMID:25231405
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	366			BRCA	Late trials	PMID:28331003;ASCO 2018 (abstr 1006)
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	367			BRCA	Early trials	PMID:28331003
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PIK3CA inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	368			ST	Case report	ASCO 2015 (abstr 2501)
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (AKT inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive	369			BRCA	Early trials	ASCO 2015 (abstr 2500)
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Responsive;Responsive	370			L	Pre-clinical;Case report	PMID:22392911;PMID:23475782;ASCO 2015 (abstr 6049);PMID:23136191;ESMO 2013 (abstr P017);ASCO 2015 (abstr 2516)
+UEB_51	SOLID	PIK3CA MUT (M1043V)	complete	1	Cetuximab (EGFR mAb inhibitor)	PIK3CA (PIK3CA oncogenic mutation)	Resistant	371			COREAD	Late trials	PMID:20619739;PMID:19223544
+UEB_51	SOLID	PIK3CA MUT (M1043V)	only gene	1	 (PI3K pathway inhibitor)	PIK3CA (PIK3CA:AMP)	Resistant	372			BRCA	Pre-clinical	PMID:24366379
+UEB_8	SOLID	TP53 MUT (V216M)	only alteration type	1	 (HSP90 inhibitor)	TP53 (R248Q,R175H)	Responsive	616			CANCER	Pre-clinical	PMID:26009011
+UEB_8	SOLID	TP53 MUT (V216M)	complete	0	Decitabine (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Responsive	617			AML, MDPS	Early trials	PMID:27959731
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	Abemaciclib (CDK4/6 inhibitor)	TP53 (TP53 oncogenic mutation)	Resistant	618			BRCA	Early trials	PMID:27217383
+UEB_8	SOLID	TP53 MUT (V216M)	only alteration type	0	 (HDM2 inhibitor)	TP53 (TP53::wildtype oncogenic mutation)	Responsive	619			AML	Early trials	AACR 2017 (abstr CT152)
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	Cisplatin (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Resistant	620			FGCT, MGCT	Early trials	PMID:27646943
+UEB_8	SOLID	TP53 MUT (V216M)	complete	0	AZD6738 (ATR inhibitor)	TP53 (TP53 oncogenic mutation)	Responsive	621			BCL	Early trials	https://ash.confex.com/ash/2014/webprogram/Paper71027.html;NCT01955668
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	Gemcitabine (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Responsive	622			BLCA	Pre-clinical	PMID:27397505
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	Mitomycin C (Chemotherapy)	TP53 (TP53 oncogenic mutation)	Responsive	623			BLCA	Pre-clinical	PMID:27397505
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	 (WEE1 inhibitor)	TP53 (TP53 oncogenic mutation)	Responsive	624			HNC	Pre-clinical	PMID:25125259
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	 (MDM2 inhibitor)	TP53 (TP53 oncogenic mutation)	Resistant	625			LIP	Early trials	PMID:23084521;ASCO 2015 (abstr 10564)
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	Doxorubicin (Anthracycline antitumor antibiotic)	TP53 (TP53 oncogenic mutation)	Responsive	626			BLCA	Pre-clinical	PMID:27397505
+UEB_8	SOLID	TP53 MUT (V216M)	complete	0	Pramlintide (Amylin analogue)	TP53 (TP53 oncogenic mutation)	Responsive	627			THYM	Pre-clinical	PMID:25409149
+UEB_8	SOLID	TP53 MUT (V216M)	complete	1	 (WEE1 inhibitor)	TP53 (TP53 oncogenic mutation)	Responsive	628			OV	Early trials	PMID:27998224
+UEB_8	SOLID	TP53 MUT (V216M)	only gene	0	Pramlintide (Amylin analogue)	TP53 (TP53:DEL)	Responsive	629			THYM	Pre-clinical	PMID:25409149
+UEB_8	SOLID	TP53 MUT (V216M)	only gene	0	AZD6738 (ATR inhibitor)	TP53 (TP53:DEL)	Responsive	630			BCL	Early trials	https://ash.confex.com/ash/2014/webprogram/Paper71027.html;NCT01955668
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	Chemotherapy (PARP inhibitor;Chemotherapy)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1044			OV	Early trials	PMID:22307137;ASCO 2012 (abstr 1009)
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	 (PARP inhibitor)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1045			BRCA	Early trials	PMID:25366685;PMID:20609467
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	 (PARP inhibitor;Chemotherapy)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1046			OV	Early trials	PMID:22307137;ASCO 2012 (abstr 1009)
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	Rucaparib (PARP inhibitor)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1047			OV	FDA guidelines	FDA
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	Platinum Agent (Chemotherapy)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1048			BRCA	Early trials	PMID:25847936
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	 (WEE1 inhibitor)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1049			CANCER	Case report	PMID:25964244
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	Platinum Agent (Chemotherapy)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1050			OV	Late trials	PMID:22406760;PMID:22711857
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	Olaparib (PARP inhibitor)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1051			PRAD	Early trials	PMID:26510020
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	Veliparib;Cisplatin (PARP inhibitor;Chemotherapy)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1052			BRCA	Early trials	PMID:26801247
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	 (PARP inhibitor)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1053			PA	Case report	PMID:25366685;PMID:19553641;PMID:25719666
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	complete	1	Olaparib (PARP inhibitor)	BRCA1 (BRCA1 oncogenic mutation)	Responsive	1054			OV	FDA guidelines	FDA
+UEB_8	SOLID	BRCA1 MUT (Q1111Nfs*5)	only gene	1	 (PARP inhibitor)	BRCA1 (BRCA1:DEL)	Responsive	1055			OV	Pre-clinical	PMID:22392482
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	 (PD1 Ab inhibitor)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	973			CM	Case report	PMID:26997480
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Olaparib (PARP inhibitor)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	974			OV	FDA guidelines	FDA
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Platinum Agent (Chemotherapy)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	975			OV	Late trials	PMID:22406760;PMID:22711857
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Chemotherapy (PARP inhibitor;Chemotherapy)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	976			OV	Early trials	PMID:22307137;ASCO 2012 (abstr 1009)
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	 (PARP inhibitor;Chemotherapy)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	977			OV	Early trials	PMID:22307137;ASCO 2012 (abstr 1009)
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Platinum Agent (Chemotherapy)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	978			PA	Case report	PMID:25719666
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Olaparib (PARP inhibitor)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	979			PRAD	Early trials	NCT01682772;http://cancerres.aacrjournals.org/content/75/15_Supplement/CT322;PMID:26510020
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Rucaparib (PARP inhibitor)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	980			OV	FDA guidelines	FDA
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	 (PD1/PDL1 inhibitor)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	981			UTH	Early trials	PMID:29489427
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Veliparib;Cisplatin (PARP inhibitor;Chemotherapy)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	982			BRCA	Early trials	PMID:26801247
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	Platinum Agent (Chemotherapy)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	983			BRCA	Early trials	PMID:25847936
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	complete	1	 (PARP inhibitor)	BRCA2 (BRCA2 oncogenic mutation)	Responsive	984			BRCA	Early trials	PMID:20609467
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	only gene	1	 (PD1/PDL1 inhibitor)	BRCA2 (BRCA2:DEL)	Responsive	985			UTH	Early trials	PMID:29489427
+UEB_39	SOLID	BRCA2 MUT (Q2009Afs*9)	only gene	1	 (PARP inhibitor)	BRCA2 (BRCA2:DEL)	Responsive	986			OV	Pre-clinical	PMID:22392482
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Quizartinib (Pan-TK inhibitor)	FLT3 (Y842.,N676.,F691.,D835.)	Resistant	548			AML	Pre-clinical	PMID:22504184;PMID:23878140
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Ponatinib (BCR-ABL inhibitor & Pan-TK inhibitor)	FLT3 (Y842.,D835.)	Resistant	549			AML	Pre-clinical	PMID:23430109
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Venetoclax (BCL2 inhibitor)	FLT3 (FLT3:inframe_variant|572-603)	Resistant	550			AML	Early trials	PMID:27520294
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Sorafenib (Pan-TK inhibitor)	FLT3 (FLT3:inframe_variant|572-603)	Responsive	551			AML	Early trials	PMID:22368270;PMID:19389879
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Quizartinib (Pan-TK inhibitor)	FLT3 (FLT3:inframe_variant|572-603)	Responsive	552			AML	Early trials	ASH 2012 (abstr 48);ASH 2012 (abstr 673)
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Sorafenib;Azacytidine (Pan-TK inhibitor;Chemotherapy)	FLT3 (FLT3:inframe_variant|572-603)	Responsive	553			AML	Early trials	PMID:23613521
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	 (FLT3 inhibitor)	FLT3 (FLT3:inframe_variant|572-603)	Responsive	554			AML	Early trials	PMID:16857985
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Crenolanib (FLT3 inhibitor)	FLT3 (FLT3:N676.)	Responsive	555			AML	Pre-clinical	PMID:24619500
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Midostaurin (Pan-TK inhibitor)	FLT3 (FLT3:N676.)	Responsive	556			AML	Pre-clinical	PMID:24619500
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	 (novel FLT3 inhibitor)	FLT3 (FLT3:F691.)	Responsive	557			AML	Pre-clinical	PMID:25847190
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Midostaurin (Pan-TK inhibitor)	FLT3 (FLT3:D835.)	Responsive	558			AML	Case report	PMID:20733134
+UEB_27	SOLID	FLT3 MUT (S873P)	only alteration type	0	Lestaurtinib (Pan-TK inhibitor)	FLT3 (FLT3:D835.)	Responsive	559			AML	Case report	PMID:16857985
+UEB_81	SOLID	NF1 MUT* (N1471S)	only alteration type	1	Vemurafenib (BRAF inhibitor)	NF1 (NF1 oncogenic mutation)	Resistant	822			CM	Pre-clinical	PMID:23171796
+UEB_81	SOLID	NF1 MUT* (N1471S)	only alteration type	1	Everolimus (MTOR inhibitor)	NF1 (NF1:D1644A)	Responsive	823			HNC	Case report	ASCO 2015 (abstr 11010);PMID:26859683
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Sirolimus (MTOR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	824			PLEN	Early trials	PMID:25314964
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Vinblastine (Chemotherapy)	NF1 (NF1 oncogenic mutation)	Responsive	825			G	Early trials	ASCO 2016 (abstr 2019)
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (KIT inhibitor;MTOR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	826			MPN	Pre-clinical	PMID:24718867
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Tamoxifen (Hormonal therapy)	NF1 (NF1 oncogenic mutation)	Responsive	827			MPN	Pre-clinical	PMID:21075781
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Bevacizumab (VEGFR mAb inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	828			G	Case report	PMID:2485933;PMID:24232489
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (Retinoic Acid)	NF1 (NF1 oncogenic mutation)	Resistant	829			NB	Pre-clinical	PMID:20655465
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Everolimus (MTOR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	830			NF	Late trials	NCT01365468
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Trametinib (MEK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	831			G	Case report	PMID:26936308
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Sorafenib;Sirolimus (Pan-TK inhibitor;MTOR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	832			MPN	Pre-clinical	PMID:25810463
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Nilotinib (BCR-ABL inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	833			MPN, PLEN	Pre-clinical	PMID:24173684
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (MEK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	834			MPN	Pre-clinical	PMID:23221341
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Everolimus (MTOR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	835			HNC, SG	Case report	ASCO 2016 (abstr e17557);PMID:26859683
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Everolimus;Bevacizumab (MTOR inhibitor;VEGFR mAb inhibitor)	NF1 (NF1 oncogenic mutation)	No Responsive	836			MPN	Early trials	ASCO 2016 (abstr 11053)
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	PLX3397 (Pan-TK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	837			PLEN	Pre-clinical	PMID:23099891
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (MEK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	838			LK, G	Pre-clinical	PMID:22573716;PMID:19727076
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (Pan-RAF inhibitor;MEK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	839			CM	Pre-clinical	PMID:26351322
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Imatinib (BCR-ABL inhibitor & KIT inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	840			PLEN	Early trials	PMID:23099009
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (AURK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	841			MPN	Pre-clinical	PMID:24373973
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (MTOR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	842			LK, G, MPN	Pre-clinical	PMID:24509877;PMID:18483311;PMID:19573811;PMID:20505189
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Dasatinib (BCR-ABL inhibitor)	NF1 (NF1 oncogenic mutation)	Resistant	843			L	Pre-clinical	PMID:24296828
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Everolimus;Pazopanib (MTOR inhibitor;VEGFR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	844			HC	Case report	PMID:24931142
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Everolimus (MTOR inhibitor)	NF1 (NF1 oncogenic mutation)	No Responsive	845			MPN	Early trials	NCT01365468
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Cediranib (ALK inhibitor)	NF1 (NF1 oncogenic mutation)	No Responsive	846			PLEN	Early trials	NCT00326872
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (PD1 Ab inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	847			CM	Early trials	ASCO 2016 (abstr 105)
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Vinblastine;Nilotinib (Chemotherapy;BCR-ABL inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	848			G	Case report	ASCO 2016 (abstr 10555)
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Sirolimus;Erlotinib (MTOR inhibitor;EGFR inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	849			G	Case report	PMID:22434731
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Everolimus;Erlotinib (MTOR inhibitor;EGFR inhibitor)	NF1 (NF1 oncogenic mutation)	No Responsive	850			G	Case report	PMID:24634382
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (BRD4 inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	851			MPN	Pre-clinical	PMID:24373973
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Tipifarnib (Farnesyltransferase inhibitor)	NF1 (NF1 oncogenic mutation)	No Responsive	852			PLEN	Early trials	PMID:24500418
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Selumetinib (MEK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	853			PLEN	Early trials	ASCO 2014 (abstr 10018)
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	 (MTOR inhibitor;HSP90 inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	854			MPN	Pre-clinical	PMID:21907929
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Trametinib (MEK inhibitor)	NF1 (NF1 oncogenic mutation)	Responsive	855			CM	Pre-clinical	PMID:2524381;PMID:24576830
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Erlotinib (EGFR inhibitor)	NF1 (NF1 oncogenic mutation)	Resistant	856			L	Pre-clinical	PMID:24535670
+UEB_81	SOLID	NF1 MUT* (N1471S)	complete	1	Trametinib (MEK inhibitor)	NF1 (NF1 oncogenic mutation)	No Responsive	857			OS	Case report	PMID:26325560
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (MTOR inhibitor)	NF1 (NF1:DEL)	Responsive	858			MPN, G, LK	Pre-clinical	PMID:24509877;PMID:18483311;PMID:19573811;PMID:20505189
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	PLX3397 (Pan-TK inhibitor)	NF1 (NF1:DEL)	Responsive	859			PLEN	Pre-clinical	PMID:23099891
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Erlotinib (EGFR inhibitor)	NF1 (NF1:DEL)	Resistant	860			L	Pre-clinical	PMID:24535670
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Trametinib (MEK inhibitor)	NF1 (NF1:DEL)	Responsive	861			G	Case report	PMID:26936308
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (BRD4 inhibitor)	NF1 (NF1:DEL)	Responsive	862			MPN	Pre-clinical	PMID:24373973
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Trametinib (MEK inhibitor)	NF1 (NF1:DEL)	No Responsive	863			OS	Case report	PMID:26325560
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Cediranib (ALK inhibitor)	NF1 (NF1:DEL)	No Responsive	864			PLEN	Early trials	NCT00326872
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Bevacizumab (VEGFR mAb inhibitor)	NF1 (NF1:DEL)	Responsive	865			G	Case report	PMID:2485933;PMID:24232489
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (MEK inhibitor)	NF1 (NF1:DEL)	Responsive	866			G, LK	Pre-clinical	PMID:22573716;PMID:19727076
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Vinblastine (Chemotherapy)	NF1 (NF1:DEL)	Responsive	867			G	Early trials	ASCO 2016 (abstr 2019)
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Sorafenib;Sirolimus (Pan-TK inhibitor;MTOR inhibitor)	NF1 (NF1:DEL)	Responsive	868			MPN	Pre-clinical	PMID:25810463
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Everolimus;Bevacizumab (MTOR inhibitor;VEGFR mAb inhibitor)	NF1 (NF1:DEL)	No Responsive	869			MPN	Early trials	ASCO 2016 (abstr 11053)
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Dasatinib (BCR-ABL inhibitor)	NF1 (NF1:DEL)	Resistant	870			L	Pre-clinical	PMID:24296828
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (MTOR inhibitor;HSP90 inhibitor)	NF1 (NF1:DEL)	Responsive	871			MPN	Pre-clinical	PMID:21907929
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Sirolimus;Erlotinib (MTOR inhibitor;EGFR inhibitor)	NF1 (NF1:DEL)	Responsive	872			G	Case report	PMID:22434731
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Imatinib (BCR-ABL inhibitor & KIT inhibitor)	NF1 (NF1:DEL)	Responsive	873			PLEN	Early trials	PMID:23099009
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Tamoxifen (Hormonal therapy)	NF1 (NF1:DEL)	Responsive	874			MPN	Pre-clinical	PMID:21075781
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Everolimus (MTOR inhibitor)	NF1 (NF1:DEL)	Responsive	875			SG, HNC	Case report	ASCO 2016 (abstr e17557);PMID:26859683
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (Pan-RAF inhibitor;MEK inhibitor)	NF1 (NF1:DEL)	Responsive	876			CM	Pre-clinical	PMID:26351322
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Tipifarnib (Farnesyltransferase inhibitor)	NF1 (NF1:DEL)	No Responsive	877			PLEN	Early trials	PMID:24500418
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Selumetinib (MEK inhibitor)	NF1 (NF1:DEL)	Responsive	878			PLEN	Early trials	ASCO 2014 (abstr 10018)
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (Retinoic Acid)	NF1 (NF1:DEL)	Resistant	879			NB	Pre-clinical	PMID:20655465
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Everolimus (MTOR inhibitor)	NF1 (NF1:DEL)	No Responsive	880			MPN	Early trials	NCT01365468
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Sirolimus (MTOR inhibitor)	NF1 (NF1:DEL)	Responsive	881			PLEN	Early trials	PMID:25314964
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Nilotinib (BCR-ABL inhibitor)	NF1 (NF1:DEL)	Responsive	882			PLEN, MPN	Pre-clinical	PMID:24173684
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Vinblastine;Nilotinib (Chemotherapy;BCR-ABL inhibitor)	NF1 (NF1:DEL)	Responsive	883			G	Case report	ASCO 2016 (abstr 10555)
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Trametinib (MEK inhibitor)	NF1 (NF1:DEL)	Responsive	884			CM	Pre-clinical	PMID:2524381;PMID:24576830
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (AURK inhibitor)	NF1 (NF1:DEL)	Responsive	885			MPN	Pre-clinical	PMID:24373973
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	Everolimus;Erlotinib (MTOR inhibitor;EGFR inhibitor)	NF1 (NF1:DEL)	No Responsive	886			G	Case report	PMID:24634382
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (PD1 Ab inhibitor)	NF1 (NF1:DEL)	Responsive	887			CM	Early trials	ASCO 2016 (abstr 105)
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (MEK inhibitor)	NF1 (NF1:DEL)	Responsive	888			MPN	Pre-clinical	PMID:23221341
+UEB_81	SOLID	NF1 MUT* (N1471S)	only gene	1	 (KIT inhibitor;MTOR inhibitor)	NF1 (NF1:DEL)	Responsive	889			MPN	Pre-clinical	PMID:24718867
